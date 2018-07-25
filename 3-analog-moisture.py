@@ -59,4 +59,4 @@ while True:
     if percent <= 80:
         messageMe(percent)
 
-    time.sleep(86400)
+    time.sleep(86400) # change the time between readings (in seconds)
